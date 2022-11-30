@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on [Wine Launcher PyQt](github.com/quell1337/Wine-Launcher-PyQt)
+Currently working on [Wine Launcher PyQt](https://github.com/quell1337/Wine-Launcher-PyQt)
 
 
 ## 🌐 Socials:
